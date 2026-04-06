@@ -10,7 +10,7 @@ I will only treat AI as a search engine, and will not ask it for code solutions 
 
 # Roadmap
 
-- [] golang : The deeper love of go - John Arundel (book).
+- [] golang : [Go101](https://go101.org)
 - [] probably a go project or another book or somehting, not sure yet.
 - [] godot : official documentation.
 - [] TBD
